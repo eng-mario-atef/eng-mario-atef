@@ -18,13 +18,25 @@
 
 ## 🚀 About Me
 
-<div style="border:1px solid #ddd; border-radius:12px; padding:16px; margin:10px 0;">
-
-Computer & Systems Engineering student with strong foundation in **C++, Java, Python, JavaScript**, databases, and web development.
-
-Focused on **Cybersecurity, Network Security, and Malware Analysis**, with hands-on experience in static/dynamic analysis, encryption/decryption, and virtual environments.
-
-Interested in **Embedded Systems (Arduino)**, **AI**, and **Data Analysis**.
+<table>
+  <tr>
+    <td style="vertical-align: middle; padding-left: 20px;">
+      Computer & Systems Engineering student with strong foundation in  
+      <b>C++, Java, Python, JavaScript</b>, databases, and web development.<br><br>
+      Focused on <b>Cybersecurity, Network Security, and Malware Analysis</b>,  
+      with hands-on experience in static/dynamic analysis, encryption/decryption,  
+      and virtual environments.<br><br>
+      Interested in <b>Embedded Systems (Arduino)</b>, <b>AI</b>, and <b>Data Analysis</b>.
+    </td>
+    <td>
+      <img 
+        src="https://freshsec.com/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzb97ynnn%2Fproduction%2Faf2348566b19d6081fb9206f8aedaf20690650e0-1400x935.webp%3Ffm%3Dpng%26q%3D50%26auto%3Dformat&w=3840&q=75"
+        width="500"
+        height="400"
+      />
+    </td>
+  </tr>
+</table>
 
 </div>
 
