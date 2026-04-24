@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mario Atef Sobhy
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&width=700\&lines=Computer+%26+Systems+Engineering+Student;Cybersecurity+Focus;Malware+Analysis+%7C+Networking+%7C+AI;Building+Secure+and+Smart+Systems)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&width=700\&lines=Computer+%26+Systems+Engineering+Student;Cybersecurity+Focus;Malware+Analysis+%7C+Networking+%7C+AI;Encryption/Decryption+techniques+%7C+Linux)
 
 ---
 
