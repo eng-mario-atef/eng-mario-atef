@@ -238,7 +238,7 @@ Teamwork • Communication • Self-learning • Attention to Detail
 ## 📫 Contact
 
 📧 [marioatef517@gmail.com](mailto:marioatef517@gmail.com)
-🔗 [linkedin.com/in/Mario-Atef](mailto:www.linkedin.com/in/mario-atef-67a694320)
+🔗 [linkedin.com/in/Mario-Atef](www.linkedin.com/in/mario-atef-67a694320)
 
 ---
 
