@@ -181,42 +181,57 @@ Web basics, AI intro, data analysis, Arduino
 ---
 
 ## 🧩 Featured Projects
+
 <div align="left">
+
 <a href="https://github.com/eng-mario-atef/ITI_Final_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eng-mario-atef&repo=ITI_Final_Project&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=eng-mario-atef&repo=ITI_Final_Project&theme=tokyonight" />
 </a>
 </div>
 
 <div align="center">
+  
 <a href="https://github.com/eng-mario-atef/Final_Project_CS50P-LabXMobile-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eng-mario-atef&repo=Final_Project_CS50P-LabXMobile-&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=eng-mario-atef&repo=Final_Project_CS50P-LabXMobile-&theme=tokyonight" />
 </a>
+
 </div>
+
 <div align="right">
 <a href="https://github.com/eng-mario-atef/Online_Video_Downloader">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eng-mario-atef&repo=Online_Video_Downloader&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=eng-mario-atef&repo=Online_Video_Downloader&theme=tokyonight" />
 </a>
+
 </div>
+
 <div align="center">
+
 <a href="https://github.com/eng-mario-atef/Link">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eng-mario-atef&repo=Link&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=eng-mario-atef&repo=Link&theme=tokyonight" />
 </a>
+
 </div>
+
 <div align="left">
 <a href="https://github.com/eng-mario-atef/PixelParty">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eng-mario-atef&repo=PixelParty&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=eng-mario-atef&repo=PixelParty&theme=tokyonight" />
 </a>
+
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=eng-mario-atef\&show_icons=true\&theme=tokyonight)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eng-mario-atef&show_icons=true&theme=tokyonight" width="48%" />
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-mario-atef\&layout=compact\&theme=tokyonight)
+<br>
 
-![Streak](https://streak-stats.demolab.com?user=eng-mario-atef\&theme=tokyonight)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eng-mario-atef&layout=compact&theme=tokyonight" width="48%" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=eng-mario-atef&theme=tokyonight" width="48%" />
 
 </div>
 
