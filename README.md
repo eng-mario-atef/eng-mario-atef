@@ -9,7 +9,7 @@
 <div style="border:1px solid #ddd; border-radius:12px; padding:16px; margin:10px 0;">
 
 📧 [marioatef517@gmail.com](mailto:marioatef517@gmail.com)<br>
-🔗 [https://linkedin.com/in/Mario-Atef](www.linkedin.com/in/mario-atef-67a694320)<br>
+🔗 [linkedin.com/in/Mario-Atef](https://www.linkedin.com/in/mario-atef-67a694320)<br>
 💻 [https://github.com/eng-mario-atef](https://github.com/eng-mario-atef)
 
 </div>
@@ -253,7 +253,7 @@ Teamwork • Communication • Self-learning • Attention to Detail
 ## 📫 Contact
 
 📧 [marioatef517@gmail.com](mailto:marioatef517@gmail.com)
-🔗 [linkedin.com/in/Mario-Atef](www.linkedin.com/in/mario-atef-67a694320)
+🔗 [linkedin.com/in/Mario-Atef](https://www.linkedin.com/in/mario-atef-67a694320)<br>
 
 ---
 
